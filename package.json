@@ -1,0 +1,21 @@
+{
+  "license": "SEE LICENSE IN LICENSE",
+  "main": "index.js",
+  "name": "@alexsvg/postcss-pxrem",
+  "version": "1.0.31",
+  "description": "PostCSS plugin that allows to use pxr unit, which essentially equals to px converted to rem automatically",
+  "devDependencies": {
+    "postcss": "^7.0.14"
+  },
+  "author": {
+    "name": "AlexSVG.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devalexsvg/postcss-pxrem.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devalexsvg/postcss-pxrem/issues"
+  },
+  "homepage": "https://github.com/devalexsvg/postcss-pxrem#readme"
+}
