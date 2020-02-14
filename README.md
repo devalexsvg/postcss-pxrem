@@ -52,6 +52,6 @@ html, body {
 }
 .style {
     font-size: 3rem;
-    padding: 1rem 1rem;
+    margin: 1rem 1rem;
 }
 ```
